@@ -30,7 +30,7 @@ To run the notebook locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/3.Car-Data-Exploration-Analysis.git
+   git clone https://github.com/Sum-it07/3.Car-Data-Exploration-Analysis.git
    ```
 
 2. Install the required Python libraries:
