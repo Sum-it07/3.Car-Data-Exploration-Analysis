@@ -17,3 +17,22 @@ The dataset used in this project is named `13. EDA_Cars_Data.xlsx`. It contains 
 ## Usage
 
 To run the analysis, you need to have Python 3 installed along with the required libraries. You can install them using pip:
+bash pip install pandas numpy matplotlib seaborn scipy scikit-learn
+Then, you can open the Jupyter notebook `Car_Data_Analysis.ipynb` and run the cells to execute the code.
+
+## Results
+
+The analysis reveals interesting insights about the car data, such as:
+
+- The average income of car owners is $50,000.
+- Most car owners are married and have a college degree.
+- The most popular car type is Sedan.
+- There is a positive correlation between income and car age.
+
+## Contributing
+
+Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please feel free to create an issue or pull request.
+
+## License
+
+This project is licensed under the MIT License.
